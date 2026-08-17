@@ -6,7 +6,7 @@
 
 </div>
 Portafolio: https://portafolio-gpt4.vercel.app/ 
----
+
 
 ## 👨‍💻 Sobre mí
 
