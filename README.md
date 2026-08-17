@@ -3,9 +3,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2c5f8a&height=200&section=header&text=Jostin%20Chalan%20Mora&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Software%20%C2%B7%20UNEMI,%20Ecuador&descAlignY=58&descSize=18)
 
 *Construyendo soluciones full-stack con enfoque en IA aplicada, buenas prácticas de desarrollo y aprendizaje continuo.*
-Portafolio: https://portafolio-gpt4.vercel.app/ 
-</div>
 
+</div>
+Portafolio: https://portafolio-gpt4.vercel.app/ 
 ---
 
 ## 👨‍💻 Sobre mí
